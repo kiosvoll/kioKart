@@ -1,0 +1,1 @@
+Kraft og straum kart. 

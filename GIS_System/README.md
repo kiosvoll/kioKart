@@ -1,7 +1,6 @@
 
 
-
-<A HREF='https://www.esri.com '>Esri</A>  Esri er ein av dei ledande aktørane for Geografiske Informasjons system (GIS), software, location intelligence, and mapping. <BR>
+<B><A HREF='https://www.esri.com '>Esri</A></B>  Esri er ein av dei ledande aktørane for Geografiske Informasjons system (GIS), software, location intelligence, and mapping. <BR>
 
 
 

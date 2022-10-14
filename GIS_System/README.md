@@ -5,7 +5,7 @@
 
 
 QGIS - https://www.qgis.org<BR>
-  <A HREF='https://mapshaper.org/'>Mapshaper.org</A> websidebasert, kan omformatere og endre størelse på kart. <BR> 
+  <A HREF='https://mapshaper.org/'>Mapshaper.org</A> webside basert, kan omformatere og endre størelse på kart. <BR> 
 
 
   <B>Oversikter:</B><BR>

@@ -4,7 +4,7 @@
 
 
 
-QGIS - https://www.qgis.org<BR>
+  <A HREF="https://www.qgis.org"> QGIS </A> <BR>
   <A HREF='https://mapshaper.org/'>Mapshaper.org</A> webside basert, kan omformatere og endre størelse på kart. <BR> 
 
 

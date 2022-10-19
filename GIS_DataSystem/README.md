@@ -8,5 +8,5 @@ QGIS - https://www.qgis.org<BR>
   <A HREF='https://mapshaper.org/'>Mapshaper.org</A> webside basert, kan omformatere og endre størelse på kart. <BR> 
 
 
-  <B>Oversikter:</B><BR>
+  <B>Oversikt over GIS system:</B><BR>
 <A HREF ='https://gisgeography.com/best-gis-software/'>30 Best GIS Software Applications [Rankings]</A><BR>

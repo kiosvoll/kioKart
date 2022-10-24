@@ -5,6 +5,7 @@
 
 
   <B> <A HREF="https://www.qgis.org"> QGIS </A> <BR></B>
+  <A HREF="https://maplibre.org>MapLibre</A><BR>
   <A HREF="https://mapshaper.org/">Mapshaper.org</A> webside basert, kan omformatere og endre størelse på kart. <BR> 
   <A HREF="https://mapbox.com/">Mapbox</A> <BR> 
 
